@@ -1,0 +1,11 @@
+{
+  "name": "@hummer/tenon-store-plugin-ark",
+  "version": "1.0.0",
+  "description": "tenon-store鸿蒙环境插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caoenze",
+  "license": "ISC"
+}
